@@ -1,0 +1,33 @@
+body{
+    background-color: palegoldenrod ;
+}
+
+h1 {
+    color : darkolivegreen;
+    text-align: center;
+    text-shadow: 2px 2px 5px darkblue;
+}
+
+h2 {
+    text-align: center;
+    text-shadow: 2px 2px 5px black ;
+}
+
+.square {
+    width: 100px;
+    height: 100px;
+    background-color: grey;
+    margin:auto;
+}
+
+#circle{
+    color : darkblue;
+    font-size: 20px;
+    text-align: center;
+}
+
+.header{
+    font-size: 20px;
+    background: linear-gradient(to bottom,#00d4ff,#cecbff);
+    box-shadow: 3px 5px 3px darkcyan;
+}
