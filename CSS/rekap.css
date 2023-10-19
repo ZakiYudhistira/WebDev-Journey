@@ -1,18 +1,41 @@
-.navigation {
-    color : blue;
+html {
+    font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+    background-color: cornsilk;
+    text-align: center;
 }
 
 h2 {
-    color : black;
     text-shadow: 2px 2px 5px grey;
-    line-height: 1;
-    font-family:sans-serif;
+    line-height: 1rem;
+    font-size: 150%;
 }
 
-p,li,a,h1 {
-    font-family: sans-serif;
-}
  img.imgUtama {
     border: 4px solid red;
     box-shadow: 3px 3px 5px grey;
- }
+}
+
+.navigation a{
+    color : darkred;
+    padding-right: 2rem;
+    font-style: italic;
+}
+
+table.navigation {
+   align-content: center;
+   margin: 0 auto;
+}
+
+a.button {
+    color: red;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+.format {
+    line-height: 2em;
+    color:blueviolet;
+}
