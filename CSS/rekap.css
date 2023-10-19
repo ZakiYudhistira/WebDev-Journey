@@ -12,7 +12,7 @@ h2 {
 p,li,a,h1 {
     font-family: sans-serif;
 }
- .imgUtama {
+ img.imgUtama {
     border: 4px solid red;
     box-shadow: 3px 3px 5px grey;
  }
