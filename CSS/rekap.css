@@ -40,6 +40,7 @@ button.padding {
     font-size: 25px;
     border-radius: 10px;
     padding: 10px 45px;
+    text-align : center;
 }
 
 img {
@@ -100,7 +101,7 @@ a.button {
     box-sizing: border-box;
 }
 
-[class*="col-"] {
+/* [class*="col-"] {
     border: 2px solid red;
-    /* padding: 15px; */
-}
+    padding: 15px;
+} */
